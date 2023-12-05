@@ -7,3 +7,4 @@ A list of interesting features I found in javascript. A lot of them are probably
 - Generators
 - Object.defineProperty
   - Setters && Getters
+- ArrayBuffer
