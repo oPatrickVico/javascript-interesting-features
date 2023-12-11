@@ -10,3 +10,8 @@ A list of interesting features I found in javascript. A lot of them are probably
 - ArrayBuffer
 - Proxy
   - Handling method calls that don't exist, like with PHP's __call magic method
+- DOM Stuff (watch this [Building Alpine.js course](https://laracasts.com/series/building-alpinejs) to see some cool stuff
+  - Navigation
+    - element.nextElementSibling (and previous) gives null if it doesn't find any
+  - Attributes
+    - You can set any custom attributes, then deal with them using: hasAttribute, getAttribute and setAttribute
