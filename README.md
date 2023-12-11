@@ -15,3 +15,4 @@ A list of interesting features I found in javascript. A lot of them are probably
     - element.nextElementSibling (and previous) gives null if it doesn't find any
   - Attributes
     - You can set any custom attributes, then deal with them using: hasAttribute, getAttribute and setAttribute
+- `with` statement
