@@ -5,10 +5,13 @@ A list of interesting features I found in javascript. A lot of them are probably
 
 - Labeled statements
 - Generators
+- [Mutation Observers](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
+  - Useful if you are using data attributes, as well as modifying children of an element
 - Object.defineProperty
   - Setters && Getters
 - Proxies
   - Handling method calls that don't exist, like with PHP's __call magic method
+  - Adding functionality when updating class attributes, like setters and getters definitions, but better in certain regards
   - https://stackoverflow.com/questions/59390026/how-to-use-es6-proxy-in-typescript
 - Proxies Vs Object.defineProperty
 - DOM Stuff (watch this [Building Alpine.js course](https://laracasts.com/series/building-alpinejs) to see some cool stuff)
