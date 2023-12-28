@@ -5,6 +5,7 @@ A list of interesting features I found in javascript. A lot of them are probably
 
 - Labeled statements
 - Generators
+  - [Use case of generators, plus return method intro](https://github.com/tc39/proposal-explicit-resource-management#ecmascript-explicit-resource-management)
 - [Mutation Observers](https://developer.mozilla.org/en-US/docs/Web/API/MutationObserver)
   - Useful if you are using data attributes, as well as modifying children of an element
 - Object.defineProperty
