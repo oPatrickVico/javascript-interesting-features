@@ -3,6 +3,8 @@ A list of interesting features I found in javascript. A lot of them are probably
 
 -------
 
+# Work in progress!
+
 - Labeled statements
 - Generators
   - [Use case of generators, plus return method intro](https://github.com/tc39/proposal-explicit-resource-management#ecmascript-explicit-resource-management)
