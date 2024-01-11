@@ -28,3 +28,7 @@ A list of interesting features I found in javascript. A lot of them are probably
   - addEventListeners and declared functions, function expressions and arrow functions
 - Tagged Templates
   - [this article](https://www.strictmode.io/articles/javascript-tagged-templates) teaches everything you need to know
+- Web Components:
+  - `<template>` tag
+  - Custom Elements
+  - Shadow root
