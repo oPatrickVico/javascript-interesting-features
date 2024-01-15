@@ -32,3 +32,5 @@ A list of interesting features I found in javascript. A lot of them are probably
   - `<template>` tag
   - Custom Elements
   - Shadow root
+- Symbol
+  - Symbol.iterator: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Symbol/iterator
