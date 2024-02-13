@@ -39,3 +39,6 @@ A list of interesting features I found in javascript. A lot of them are probably
   - .with:
     - https://twitter.com/BHolmesDev/status/1751631853436514522
     - https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/with
+- Regex
+  - .test: https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/RegExp/test
+    - Super useful as conditional, because it return true
